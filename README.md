@@ -122,4 +122,13 @@ tetris-novela/
 └── 📄 README.md
 ```
 
+<div align="center">
+
+### 👩‍💻 Hecho por **Areli Reynoso**
+
+[![GitHub](https://img.shields.io/badge/GitHub-AreR9-181717?style=flat-square&logo=github)](https://github.com/AreR9)
+
+⭐ Si te gustó, ¡dale una estrella al repo!
+
+</div>
 ---
